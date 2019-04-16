@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E3B5D37E-D2F3-A85A-5F5F-A91624292FB9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/objectController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/IngredientSelector.cs" Line="28" Column="88" />
+      <File FileName="Assets/Scripts/objectController.cs" Line="64" Column="89" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
